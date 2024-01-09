@@ -1,0 +1,63 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "UnCrackable.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Resources",
+      "UnCrackable.apk"
+    ],
+    [
+      "sg.vantagepoint",
+      "Source code",
+      "UnCrackable.apk"
+    ],
+    [
+      "uncrackable2",
+      "sg.vantagepoint",
+      "Source code",
+      "UnCrackable.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "resource",
+      "tabPath": "AndroidManifest.xml",
+      "subPath": "",
+      "caret": 850,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "sg.vantagepoint.uncrackable2.CodeCheck",
+      "subPath": "java",
+      "caret": 86,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "sg.vantagepoint.uncrackable2.MainActivity",
+      "subPath": "java",
+      "caret": 566,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  ],
+  "activeTab": 2,
+  "cacheDir": "UnCrackable.apk.cache",
+  "enableLiveReload": false,
+  "searchHistory": []
+}
